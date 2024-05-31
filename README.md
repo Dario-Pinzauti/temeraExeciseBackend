@@ -8,7 +8,13 @@ mvn spring-boot:run
 questo farà partire l'esecuzione del progetto.
 
 
+Per accedere alla ui di swagger il link è il seguente
 
+http://localhost:8080/swagger-ui/index.html#/
+
+é configurata un'atenticazione basic di default le credenziali sono  
+
+user : password 
 
 
 ## build Docker
